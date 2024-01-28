@@ -2,4 +2,4 @@
 
 <h3> My favorite technologies </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,vscode,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,python,bash,linux,arduino,raspberrypi)](https://skillicons.dev)
