@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a firmware developer specializing in devices like ESP32/8266, Arduino, and PIC. I enjoy writing in C/C++ and Python, constantly pushing the boundaries of what's possible with microcomputers and electronics.
+I am a firmware developer specializing in devices like ESP32/8266, Arduino and PIC. I like to write in C/C++ languages. I also write useful scripts in Python.
 
 ---
 
