@@ -23,8 +23,8 @@ I am a firmware developer specializing in devices like ESP32/8266, Arduino and P
 ### GitHub Stats
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=petrvavrin&show_icons=true&theme=midnight-purple" alt="Peter's GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrvavrin&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple" alt="Peter's Top Languages">
+  <img width="600" height="200" src="https://github-readme-stats-eight-theta.vercel.app//api?username=petrvavrin&show_icons=true&theme=midnight-purple" alt="Peter's GitHub Stats">
+  <img width="400" height="200" src="https://github-readme-stats-eight-theta.vercel.app//api/top-langs/?username=petrvavrin&size_weight=0.15&count_weight=0.5&layout=compact&theme=midnight-purple" alt="Peter's Top Languages">
 </p>
 
 ---
